@@ -13,3 +13,6 @@ Tracking what you put in your body is important, but no one has the time to note
 - [ ] Organize input based on user preference -> "certain details or chronological"
 - [ ] Option to edit previous input and add more
 - [ ] Export data to save for later edits
+
+**UML Diagram/CRC Cards**
+
