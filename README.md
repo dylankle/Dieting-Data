@@ -1,4 +1,4 @@
-# Planner-Application
-# CISC191 Final Project: Dieting Data
+# Diet-Tracker
+## CISC191 Final Project: Dieting Data
 
 Project Proposal
