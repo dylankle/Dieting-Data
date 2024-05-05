@@ -1,4 +1,4 @@
 # Planner-Application
-CISC 191 Final Project
+# CISC191 Final Project: Dieting Data
 
-Dieting
+Project Proposal
