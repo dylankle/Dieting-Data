@@ -23,3 +23,6 @@ Tracking what you put in your body is important, but no one has the time to note
 ## Project Checkpoints:
 
 **Week 1:**
+UML Diagram with CRC cards completed. Class interations and implementations are clear. Project is concise enough to begin coding, if anything slight adjustments to capabilities or additional features can easily be edited into final submission. Early draft can begin coding.
+
+**Week 2:**
