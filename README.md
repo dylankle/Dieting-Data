@@ -7,10 +7,9 @@ Tracking what you put in your body is important, but no one has the time to note
 
 **Development Tasks:**
 
-[ ] Get user input -> "food or water"
-[ ] Store input accordingly
-[ ] Attach additional details to input such as time, snack, meal (meat, carb, vegetable, etc.)
-[ ] Organize input based on user preference -> "certain details or chronological"
-[ ] Option to edit previous input or add more
-[ ] Export data to save for later edits
-
+- [ ] Get user input -> "food or water"
+- [ ] Store input accordingly
+- [ ] Attach additional details to input such as time, snack, meal (meat, carb, vegetable, etc.)
+- [ ] Organize input based on user preference -> "certain details or chronological"
+- [ ] Option to edit previous input or add more
+- [ ] Export data to save for later edits
