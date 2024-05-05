@@ -1,8 +1,8 @@
-#CISC191 Final Project: Dieting-Tracker
+# CISC 191 Final Project
 
-##Overview:
+## Project Proposal
 
-**Project Proposal**
+**Overview**
 
 Tracking what you put in your body is important, but no one has the time to note or jot down every meal, snack, and drink they have in a day. DietingData will be an application where the user can add what they eat in a day. Each food will be organized chronologically based on user's input of time. A water counter will be included as well.
 
@@ -20,6 +20,6 @@ Tracking what you put in your body is important, but no one has the time to note
 ![DylanLe - Final Project UML_CRC (CISC 191)](https://github.com/ExoticButters15/Dieting-Data/assets/68560708/8fbc6f40-ba1d-40dc-aa81-87aebdc2cdab)
 ![Dylan Le - Final Project GUI Wireframe (CISC 191)](https://github.com/ExoticButters15/Dieting-Data/assets/68560708/3b74c497-ecf4-44b0-9527-0fa589d07a1a)
 
-##Project Checkpoints:
+## Project Checkpoints:
 
 **Week 1:**
