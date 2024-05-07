@@ -27,3 +27,6 @@ Tracking what you put in your body is important, but no one has the time to note
 UML Diagram with CRC cards completed. Class interactions and implementations are clear. Project is concise enough to begin coding, slight adjustments to capabilities or additional features can easily be edited before final submission. Early draft can begin coding.
 
 **Week 2:**
+Asking for inital date, setting up intial startup frame including layout and components. Will finish a few test cases before moving to Week 3. Finishing the buttons, labels, and progressbar. No listeners have been connected. Also mapped out the chronologial order of pop-up and actions.
+
+**Week 3**
