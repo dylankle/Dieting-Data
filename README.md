@@ -30,19 +30,3 @@ UML Diagram with CRC cards completed. Class interactions and implementations are
 **Week 2**
 
 Asking for inital date, setting up intial startup frame including layout and components. Will finish a few test cases before moving to Week 3. Finishing the buttons, labels, and progressbar. No listeners have been connected. Also mapped out the chronologial order of pop-ups, squencing, and actions (on paper)
-
-**Week 3**
-
-Program is working appropriately. All components have effective event handling, and the program works as intended. However, the GUI is underdevloped with little to no formatting, and the file I/O module has not been implemented. Will do test cases and exception handling first and leave Week 7 for final GUI.
-
-**Week 4**
-
-Test cases are still being implemented. Focusing on making test cases that interact with every component and aspect of the program. All the way to the point where I do not need to run and input data into the program, instead just run the test case file.
-
-**Week 5**
-
-Test cases are completed. All modules from 1-9 are effectively used in the project, except module 8 (Exception Handling). The program could easily be broken by faulty user input. I am making more test cases and custom exceptions to throw, catch, and stop the program from not only breaking, but making the user experience more fluid and purposeful.
-
-**Week 6**
-
-Most exceptions are handled. Still looking for weak spots and bugs in the program. I also started fixing the GUI for the final product.
