@@ -8,13 +8,13 @@ Tracking what you put in your body is important, but no one has the time to note
 
 **Development Tasks:**
 
-- [ ] Get user input as "food or water"
-- [ ] If "food" add item with attached details / If "water" add amount of water and update progress bar
-- [ ] Add  -> Attach additional details to input such as time and details (meat, carb, vegetable, fruit, dairy)
-- [ ] User can edit previously added items, view and expand items to see details, or export data to .txt file
-- [ ] Edit -> Select an item and change the name, type, or details
-- [ ] View -> Sort and organize inputed items (meat, carb, vegetable, fruit, dairy)
-- [ ] Done -> Export data to save for later edits
+- [x] Get user input as "food or water"
+- [x] If "food" add item with attached details / If "water" add amount of water and update progress bar
+- [x] Add  -> Attach additional details to input such as time and details (meat, carb, vegetable, fruit, dairy)
+- [x] User can edit previously added items, view and expand items to see details, or export data to .txt file
+- [x] Edit -> Select an item and change the name, type, or details
+- [ ] View -> See and sort items based on the user's choices
+- [x] Done -> Export data as .txt file
 
 **UML Diagram/CRC Cards/GUI Wireframe**
 
