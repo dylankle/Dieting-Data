@@ -13,7 +13,7 @@ Tracking what you put in your body is important, but no one has the time to note
 - [x] Add  -> Attach additional details to input such as time and details (meat, carb, vegetable, fruit, dairy)
 - [x] User can edit previously added items, view and expand items to see details, or export data to .txt file
 - [x] Edit -> Select an item and change the name, type, or details
-- [ ] View -> See and sort items based on the user's choices
+- [ ] View -> See all details of items based on users choice
 - [x] Done -> Export data as .txt file
 
 **UML Diagram/CRC Cards/GUI Wireframe**
