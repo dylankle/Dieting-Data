@@ -52,3 +52,6 @@ The program is practically finished. I have completed the add, edit, and view mo
 **Week 7**
 
 I have commented the program, organized the methods, and cleaned up the headers of each class. I revised and fixed a few details from the UML diagram.  I wanted to check practicality, exceptions, and weak points in the code, but navigating the project was difficult because I got lazy with my naming and commenting. Test cases have also been completed apart from expected exceptions.
+
+**Week 8**
+
