@@ -18,7 +18,7 @@ Tracking what you put in your body is important, but no one has the time to note
 
 **UML Diagram/CRC Cards/GUI Wireframe**
 
-![DylanLe - Final Project UML_CRC (CISC 191) (1)](https://github.com/ExoticButters15/Dieting-Data/assets/68560708/a71963b4-e920-44d6-90a5-15b8c660225b)
+![DylanLe - Final Project UML_CRC (CISC 191) (2)](https://github.com/dylankle/Dieting-Data/assets/68560708/3cb3f12f-1338-4d46-8c85-e177a48a8a4f)
 ![Dylan Le - Final Project GUI Wireframe (CISC 191) (3)](https://github.com/dylankle/Dieting-Data/assets/68560708/25778eab-cd63-40c4-8f68-d14930e223f1)
 
 
