@@ -55,3 +55,4 @@ I have commented the program, organized the methods, and cleaned up the headers 
 
 **Week 8**
 
+Final week of the project, I am making custom exceptions, catching exceptions, and checking for weak points in the program; such as String lengths, invalid input, and data types. Apart from handling exceptions and covering all basis of each step in the program, if I have additional time before final submission, will take a moment to improve GUI. Java swing is old-fashioned, but the program right now could benefit from some better spacing, borders, colors, or images.
