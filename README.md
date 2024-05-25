@@ -4,11 +4,11 @@
 
 I. [Overview](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#overview)
 
-II. [Functionality](##-functionality)
+II. [Functionality](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#functionality)
 
-III. [UML Diagram/CRC Cards](##-uml-diagram/crc-cards)
+III. [UML Diagram/CRC Cards](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#uml-diagramcrc-cards)
 
-IV. [GUI](##-gui)
+IV. [GUI](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#gui)
 
 ## Overview
 
