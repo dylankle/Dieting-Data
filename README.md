@@ -2,10 +2,13 @@
 
 ## Table of Contents
 
-I.[Overview](##-overview)
-II.[Functionality](##-functionality)
-III.[UML Diagram/CRC Cards](##-uml-diagram/crc-cards)
-IV.[GUI](##-gui)
+I. [Overview](##-overview)
+
+II. [Functionality](##-functionality)
+
+III. [UML Diagram/CRC Cards](##-uml-diagram/crc-cards)
+
+IV. [GUI](##-gui)
 
 ## Overview
 
