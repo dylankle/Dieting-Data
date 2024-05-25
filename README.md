@@ -2,13 +2,11 @@
 
 ## Table of Contents
 
-I. [Overview](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#overview)
+I. [Description](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#functionality)
 
-II. [Functionality](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#functionality)
+II. [UML Diagram/CRC Cards](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#uml-diagramcrc-cards)
 
-III. [UML Diagram/CRC Cards](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#uml-diagramcrc-cards)
-
-IV. [GUI](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#gui)
+III. [GUI](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#gui)
 
 ## Overview
 
