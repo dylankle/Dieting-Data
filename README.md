@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-I. [Overview]([https://github.com/dylankle/Dieting-Data/blob/starting/README.md#overview])
+I. [Overview](https://github.com/dylankle/Dieting-Data/blob/starting/README.md#overview)
 
 II. [Functionality](##-functionality)
 
