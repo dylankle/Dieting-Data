@@ -1,5 +1,12 @@
 # CISC 191 Final Project
 
+## Table of Contents
+
+I.[Overview](##-overview)
+II.[Functionality](##-functionality)
+III.[UML Diagram/CRC Cards](##-uml-diagram/crc-cards)
+IV.[GUI](##-gui)
+
 ## Overview
 
 Tracking what you put in your body is important, but no one has the time to note or jot down every meal, snack, and drink they have in a day. DietingData will be an application where the user can add what they eat in a day. Each food will be organized chronologically based on user's input of time. A water counter will be included as well.
