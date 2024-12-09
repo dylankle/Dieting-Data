@@ -1,4 +1,4 @@
-# CISC 191 Final Project
+# Dieting Data
 
 ## Table of Contents
 
